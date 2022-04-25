@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = spuhalo.13@gmail.com
+	name = stephane puhalo
